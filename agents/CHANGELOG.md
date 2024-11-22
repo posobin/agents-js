@@ -1,5 +1,13 @@
 # @livekit/agents
 
+## 0.4.7
+
+### Patch Changes
+
+- proper checks for `allowInterruptions` flag before attempting interruption - [#178](https://github.com/livekit/agents-js/pull/178) ([@hamza-ghufran](https://github.com/hamza-ghufran))
+
+- chore(treewide): add READMEs for npmjs.com - [#180](https://github.com/livekit/agents-js/pull/180) ([@nbsp](https://github.com/nbsp))
+
 ## 0.4.6
 
 ### Patch Changes

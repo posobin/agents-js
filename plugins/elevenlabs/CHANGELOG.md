@@ -1,5 +1,14 @@
 # @livekit/agents-plugin-elevenlabs
 
+## 0.4.7
+
+### Patch Changes
+
+- chore(treewide): add READMEs for npmjs.com - [#180](https://github.com/livekit/agents-js/pull/180) ([@nbsp](https://github.com/nbsp))
+
+- Updated dependencies [[`0e192fd322f20039905f3a865c17b2697b72d232`](https://github.com/livekit/agents-js/commit/0e192fd322f20039905f3a865c17b2697b72d232), [`6f24650bd989d7b01f15b842ce6ced5f179dd702`](https://github.com/livekit/agents-js/commit/6f24650bd989d7b01f15b842ce6ced5f179dd702)]:
+  - @livekit/agents@0.4.7
+
 ## 0.4.6
 
 ### Patch Changes
